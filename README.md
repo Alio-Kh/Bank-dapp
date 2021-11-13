@@ -14,7 +14,7 @@ $ git clone https://github.com/Alio-Kh/Bank-dapp.git
 $ cd Bank-dapp
 
 # Install http-server
-$ npm install http-server
+$ npm install -g http-server
 
 # Run the http-server
 $ http-server
